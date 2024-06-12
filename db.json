@@ -1,0 +1,94 @@
+{
+  "images": [
+    { "title": "logo-header", "src": "Images/Asset-1-1-1536x605.png", "alt": "logo"}
+  ],
+  "menu": [
+    { "id": "1","href": "#", "title": "Home" },
+    { "id": "2","href": "#", "title": "Services" },
+    { "id": "3","href": "#", "title": "Works" },
+    { "id": "4","href": "#", "title": "About" },
+    { "id": "5","href": "#", "title": "Gallery" },
+    { "id": "6","href": "#", "title": "Contact" },
+    { "id": "7","href": "#", "title": "Test" }
+  ],
+  "elements": [
+    {"id": "1", "icon": "fa-regular fa-paper-plane", "h":  "Future Concept.", "p":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aperiam"},
+    {"id": "2", "icon": "fa-solid fa-brain", "h":  "The Big Ideas.", "p":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aperia"},
+    {"id": "3", "icon": "fa-regular fa-lightbulb", "h":  "Creative Solutions.", "p":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aper"}
+  ],
+  "gallery": [
+    { "id":  "1", "alt": "Aurora", "src": "Images/17.jpg", "caption" : "Ever seen this?"},
+    { "id":  "2", "alt": "Street", "src": "Images/2.jpg", "caption" : "Travel the world."},
+    { "id":  "3", "alt": "Hand", "src": "Images/6.jpg", "caption" : "He isn't into hands that much."},
+    { "id":  "4", "alt": "Street", "src": "Images/7.jpg", "caption" : "Wanna be alone in here?"},
+    { "id":  "5", "alt": "Statue", "src": "Images/9.jpg", "caption" : "Okay but this is pretty cool"},
+    { "id":  "6", "alt": "Moon", "src": "Images/10.jpg", "caption" : "Beware the werewolf"},
+    { "id":  "7", "alt": "Lovers", "src": "Images/12.jpg", "caption" : "Aren't they just sweet."},
+    { "id":  "8", "alt": "Night", "src": "Images/5.jpg", "caption" : "Look at the window or something."},
+    { "id":  "9", "alt": "Woman", "src": "Images/13.jpg", "caption" : "She be chillin."},
+    { "id":  "10", "alt": "Gaming", "src": "Images/15.jpg", "caption" : "They're lovers I guess."},
+    { "id":  "11", "alt": "Hands", "src": "Images/16.jpg", "caption" : "Isn't this just sweet."},
+    { "id":  "12", "alt": "Statue", "src": "Images/14.jpg", "caption" : "I feel like he's upset."}
+  ],
+  "services": [
+    { "id": "1", "span": "fa-solid fa-chart-line", "h": "Digital Strategy", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." },
+    { "id": "2", "span": "fa-solid fa-pen-clip", "h": "UX Design", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." },
+    { "id": "3", "span": "fa-regular fa-circle-user", "h": "UI Designs", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." },
+    { "id": "4", "span": "fa-solid fa-head-side-cough", "h": "Sick Dude", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." },
+    { "id": "5", "span": "fa-solid fa-person-harassing", "h": "Bullying", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." },
+    { "id": "6", "span": "fa-solid fa-hippo", "h": "A Hippo", "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur." }
+  ],
+  "critics" : [
+    { "id": "1",
+      "backgroundImg": "Images/Pacfic-Blue-iphone-wallpaper-idownloadblog-smartechdaily-geometric.jpg",
+      "classImg": "img1",
+      "personImg": "Images/marcus.png",
+      "alt": "Marcus",
+      "comment": "Yeah, I think it's a great website whatsoever, considering the fact that Ala is the designer.",
+      "stars": 5,
+      "name": "Bernard Sanders, painter"
+    },
+    { "id": "2",
+      "backgroundImg": "Images/Pacfic-Blue-iphone-wallpaper-idownloadblog-smartechdaily-geometric%20(1).jpg",
+      "classImg": "img2",
+      "personImg": "Images/Rachel.png",
+      "alt": "Rachel",
+      "comment": "I mean, it's ALA's. How can you say no to that?",
+      "stars": 5,
+      "name": "Rachel Zane, lawyer"
+    },
+    { "id": "3",
+      "backgroundImg": "Images/Pacfic-Blue-iphone-wallpaper-idownloadblog-smartechdaily-geometric%20(2).jpg",
+      "classImg": "img3",
+      "personImg": "Images/Philip.png",
+      "alt": "Philip",
+      "comment": "Ala's great and all, I'm just giving her 4 stars in case she gets cocky",
+      "stars": 4,
+      "name": "Philip Gomez, designer"
+    }
+  ],
+  "socialMedia": [
+    { "id" : "1", "href": "#", "icon": "fa-instagram" },
+    { "id" : "2", "href": "#", "icon": "fa-facebook" },
+    { "id" : "3", "href": "#", "icon": "fa-twitter" },
+    { "id" : "4", "href": "#", "icon": "fa-youtube" }
+  ],
+  "contact-us": [
+    { "icon": "fa-phone", "text": "+123456789" },
+    { "icon": "fa-mail-bulk", "text": "anymail@mail.com" },
+    { "icon": "fa-map", "text": "West Virginia, USA" },
+    { "icon": "fa-calendar", "text": "Monday to Friday" }
+  ],
+  "servicesFoot": [
+    { "text": "Single Project" },
+    { "text": "Being Ala's Friend" },
+    { "text": "Or enemy" },
+    { "text": "Works" }
+  ],
+  "about-us": [
+    { "text": "About Page" },
+    { "text": "Blog" },
+    { "text": "Something like it" },
+    { "text": "BPD vs NPD" }
+  ]
+}
